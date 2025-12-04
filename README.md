@@ -47,14 +47,23 @@ This project simulates a small business network contaning
    9. Network Testing, Logging and Verification
   
    ✏️ User Stories:
+   
    - User Story 1: As a Admin Prepare and Configure the Virtual Environment
+     
    -User Story 2: As an Admin Install and Configure pfSense in a Virtual Machine
-   -User Story 3: As an Admin Create Multiple VLANs and Assign Them to Virtual Interfaces 
-   -User Story 4: As an Admin Configure DHCP for Each VLAN 
-   -User Story 5: As an Admin Create a Firewall Rules in pfSense to Isolate VLANs 
-   -User Story 6: As an Admin Install and Configure an IDS/IPS (Snornt or Suricata) on pfSense 
-   -User story 7: As an Admin Configure a Captive Portal on the Guest VLAN 
+
+   -User Story 3: As an Admin Create Multiple VLANs and Assign Them to Virtual Interfaces
+   
+   -User Story 4: As an Admin Configure DHCP for Each VLAN
+   
+   -User Story 5: As an Admin Create a Firewall Rules in pfSense to Isolate VLANs
+   
+   -User Story 6: As an Admin Install and Configure an IDS/IPS (Snornt or Suricata) on pfSense
+   
+   -User story 7: As an Admin Configure a Captive Portal on the Guest VLAN
+   
    -User Story 8: As an Admin Deploy and Configure Client Virtual Machines
+   
    -User Story 9: As an Admin Test and Verify Network Segmentation, Firewall rules, IDS/IPS Alerts, and Captive Portal Functionality 
   
    🛠️ Software Requirments:
