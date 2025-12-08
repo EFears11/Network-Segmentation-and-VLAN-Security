@@ -84,9 +84,9 @@ This project simulates a small business network contaning
   📊 Final Deliverables: 
   1. Configured pfSense VM
   2. Three VLANs
-  3. IDS/IPS operational
-  4. Captive portal for guest netwokrk
-  5. Client VMs connected
+  3. IDS/IPS 
+  4. Captive portal for guest network
+  5. Client VMs 
   6. README.md
   7. Documentation (Wiki)
   8. Screenshots of Configurations
