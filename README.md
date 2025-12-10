@@ -99,7 +99,7 @@ This project simulates a small business network contaning
 
 | Team Member     | Total Story Points Completed | Contribution % |
 |------------------|------------------------------|-----------------|
-| You              | 24                           | 48%             |
-| Other Member     | 26                           | 52%             |
+| Terrell          | 24                           | 48%             |
+| Millie           | 26                           | 52%             |
 | **Team Total**   | **50**                       | **100%**        |
 
