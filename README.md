@@ -101,5 +101,5 @@ This project simulates a small business network contaning
 |------------------|------------------------------|-----------------|
 | Terrell          | 24                           | 48%             |
 | Millie           | 26                           | 52%             |
-| **Team Total**   | **50**                       | **100%**        |
+| **Team Total**   | **67**                       | **100%**        |
 
