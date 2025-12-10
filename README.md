@@ -95,3 +95,12 @@ This project simulates a small business network contaning
 
 -Wiki Pages 
 -ScreenShots 
+
+
+## Story Points Summary
+
+| Team Member | Total Story Points Completed | Contribution % |
+|-------------|------------------------------|-----------------|
+| Member 1    |                              |                 |
+| Member 2    |                              |                 |
+| **Team Total** | **X**                     | **100%**        |
